@@ -44,8 +44,8 @@ This project implements a text message marketing campaign micro-service designed
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/text-message-campaign.git
-cd text-message-campaign
+git clone git@github.com:kalib-code/coding-challenge-2024.git
+cd coding-challenge-2024
 ```
 
 ### 2. Install Dependencies
